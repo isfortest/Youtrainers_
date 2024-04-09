@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="91e5b608-e563-442f-b441-bdf7661c90a3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Youtrainers_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/e2e/1-getting-started/todo.cy.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/e2e/2-advanced-examples/actions.cy.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/e2e/2-advanced-examples/aliasing.cy.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/e2e/2-advanced-examples/assertions.cy.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/e2e/2-advanced-examples/connectors.cy.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/e2e/2-advanced-examples/cookies.cy.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/e2e/2-advanced-examples/cypress_api.cy.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/e2e/2-advanced-examples/files.cy.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/e2e/2-advanced-examples/location.cy.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/e2e/2-advanced-examples/misc.cy.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/e2e/2-advanced-examples/navigation.cy.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/e2e/2-advanced-examples/network_requests.cy.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/e2e/2-advanced-examples/querying.cy.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/e2e/2-advanced-examples/spies_stubs_clocks.cy.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/e2e/2-advanced-examples/storage.cy.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/e2e/2-advanced-examples/traversal.cy.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/e2e/2-advanced-examples/utilities.cy.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/e2e/2-advanced-examples/viewport.cy.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/e2e/2-advanced-examples/waiting.cy.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/e2e/2-advanced-examples/window.cy.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/e2e/specs/SingInUsingLinkedIn.cy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/e2e/specs/forgotPassword.cy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/e2e/specs/scheduleAworkshop.cy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/e2e/specs/signinThenSignout.cy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/e2e/specs/signing.cy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/e2e/specs/signup.cy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/e2e/specs/testUrl.cy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/fixtures/example.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/support/commands.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/support/e2e.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Cypress E2E Test JS.cy" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2esYzwlLmvJhEME3Qbbgc99qsrf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/zakso/ProjetNode/projects/practiceCypress",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Users\\zakso\\testProjects\\Youtrainers_\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91e5b608-e563-442f-b441-bdf7661c90a3" name="Changes" comment="" />
+      <created>1712695022605</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712695022605</updated>
+      <workItem from="1712695023830" duration="3308000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
